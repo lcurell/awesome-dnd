@@ -99,6 +99,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Sane Magical PricesPrices](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view)
 * [Mundane Item Generator](https://www.herebetaverns.com/mundane-item-generator)
 * [Adventurers League Rewards](https://docs.google.com/spreadsheets/d/1omoTExpdh7cdiq9NnfVpf6-CnAkGRbA-FMIiNaZXpvg/edit#gid=0)
+* [The Reliquary](https://reliquary.grimoire-tools.com) - Make cards for magic items, spells, monsters and NPCs in the browser
 
 ## NPC
 
@@ -121,6 +122,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Improved Initiative](https://improvedinitiative.app/)
 * [Medieval Fantasy City Generator](https://watabou.itch.io/medieval-fantasy-city-generator) - This application generates a random medieval city layout of a requested size.
 * [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) - Generate fantasy world maps with ease.
+* [Grimoire Encounter Builder](https://encounter.grimoire-tools.com) - Free browser encounter tracker for initiative, HP and conditions, no account
 
 ## Names
 
@@ -150,6 +152,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [VTT Token Maker](https://thefatefulforce.com/battle-resources/token-creator/)
 * [Token Stamp 2](https://rolladvantage.com/tokenstamp/)
 * [2 Minute Tabletop Token Editor](https://tools.2minutetabletop.com/token-editor/)
+* [Grimoire Token Creator](https://tokencreator.grimoire-tools.com) - Upload any art, pick a shape and border, export a ready-to-use token
 
 ## Generator
 
@@ -184,6 +187,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Foundry Virtual Tabletop](https://foundryvtt.com) - A self-hosted, modern, and developer-friendly roleplaying platform
 * [Owlbear Rodeo](https://www.owlbear.rodeo) - "The simplest way to play tabletop games online"
 * [Roll20](https://roll20.net) - A browser-based suite of tools that allows users to create and play tabletop role playing games
+* [Grimoire Dice Tower](https://dice.grimoire-tools.com) - Shared 3D dice for your group, roll together in the browser with no account
 
 ## Converter
 
@@ -231,6 +235,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Alphastream's Forgotten Realms Timeline](https://alphastream.org/index.php/2020/04/09/the-official-timeline-for-the-forgotten-realms-and-its-adventures/) - Interactive calendar of the history of the Realms
 * [Broderick's Compendium: Plants and Fungi Across the Realm](https://www.reddit.com/r/DnD/comments/83oupp/brodericks_compendium_plants_and_fungi_across_the/) - Guide to over 600 fantasy plants for druids, poisoners, potion-crafters, and herbalists
 * [Conjuration List](https://imgur.com/a/nZqbW) - A table of all beasts, celestials, elementals, fey, and fiends that your PC's may conjure with Conjure Animals, Conjure Celestial, Conjure Elemental, Conjure Fey
+* [Grimoire](https://grimoire-tools.com) - Free browser tools for game masters: encounter tracker, token maker, handouts, shared 3D dice and item cards
 
 # Desktop Applications
 
